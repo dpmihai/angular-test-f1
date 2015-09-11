@@ -1,0 +1,48 @@
+body{
+  padding:20px;
+}
+
+table thead th {
+	background-color: lightblue;
+	padding: 10px 0px 10px 5px !important;
+	
+}
+
+#main {
+	width: 100%;
+}
+
+.main-top {
+	display: block;
+	padding: 5px 0 5px 0;
+	width: 100%;
+}
+
+.main-nav {
+	float: left;	
+	padding: 10px;
+	background: lightblue;
+	width: 13%;
+}
+
+.main-content table {
+	width: 85%;
+}
+
+.driver-picture {
+	float:left;
+	margin-right: 10px;
+}
+
+.driver-desc {
+	display: inline-block;
+}
+
+.driver-status {	
+	margin-top: 30px;
+}
+
+.bio {
+	display: block;
+	padding-top: 30px;
+}
